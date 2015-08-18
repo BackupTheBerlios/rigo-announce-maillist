@@ -1,0 +1,23 @@
+From wright.j at ece.arizona.edu  Sat Feb 18 06:02:25 2006
+From: wright.j at ece.arizona.edu (Jeremy)
+Date: Fri, 17 Feb 2006 21:02:25 -0800
+Subject: [Rigo-announce] Rigo Development
+Message-ID: <43F6AA61.5070601@ece.arizona.edu>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Check out the weblog concerning updates with R.I.G.O.
+http://developer.berlios.de/blog/authors/5766-siafu86
+Sicnerely,
+Jeremy W
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQFD9qphQ7ZNa1lVH0cRAgqzAKCEAtBGF4UZ3hKhKXfuR9eMRhbTpwCfRrNF
+HsHIXvwmqIcmJa/vJjHIQEA=
+=j/LE
+-----END PGP SIGNATURE-----
+
+
